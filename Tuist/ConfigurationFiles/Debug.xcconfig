@@ -1,0 +1,4 @@
+PRODUCT_BUNDLE_IDENTIFIER = com.iletai.CommentTikTokView.Debug
+STORY_BOARD_ID = LaunchScreen
+PRODUCT_NAME = CommentTikTokView
+DEVELOPMENT_LANGUAGE = En
